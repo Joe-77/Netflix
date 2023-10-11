@@ -4,11 +4,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: AIzaSyBkSQB7cRRcQ2ccT4u3l5AYZU0onNgUWQ4,
-  authDomain: netflix - b731c.firebaseapp.com,
-  projectId: netflix - b731c,
-  storageBucket: netflix - b731c.appspot.com,
-  messagingSenderId: 16722214161,
+  apiKey: "AIzaSyBkSQB7cRRcQ2ccT4u3l5AYZU0onNgUWQ4",
+  authDomain: "netflix-b731c.firebaseapp.com",
+  projectId: "netflix-b731c",
+  storageBucket: "netflix-b731c.appspot.com",
+  messagingSenderId: "16722214161",
+  appId: "1:16722214161:web:750572e0cd217b851160b0",
 };
 
 // Initialize Firebase
