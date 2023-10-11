@@ -1,15 +1,14 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
-import {getFirestore} from 'firebase/firestore'
+import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_API_KEY,
-  authDomain: import.meta.env.VITE_AUTH_DOMAIN,
-  projectId: import.meta.env.VITE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_STORAGE,
-  messagingSenderId: import.meta.env.VITE_SENDER_ID,
-  appId: import.meta.env.VITE_APP_ID,
+  apiKey: AIzaSyBkSQB7cRRcQ2ccT4u3l5AYZU0onNgUWQ4,
+  authDomain: netflix - b731c.firebaseapp.com,
+  projectId: netflix - b731c,
+  storageBucket: netflix - b731c.appspot.com,
+  messagingSenderId: 16722214161,
 };
 
 // Initialize Firebase
@@ -17,8 +16,8 @@ const app = initializeApp(firebaseConfig);
 
 // Auth
 
-export const auth = getAuth(app)
+export const auth = getAuth(app);
 
-export const db = getFirestore(app)
+export const db = getFirestore(app);
 
-export const storage = getStorage(app)
+export const storage = getStorage(app);
