@@ -84,7 +84,7 @@ export const movies = [
           "https://th.bing.com/th?id=OSK.mmcolLTzryCdnS4LBLL1vMEzCjpI8gL1QuXWiC9B8mJajVQw&w=76&h=100&c=8&o=6&dpr=1.3&pid=SANGAM",
         ],
         about:
-          "After Ever Happy is a 2022 American romantic drama film directed by Castille Landon from a screenplay by Sharon Soboil, based on the 2015 novel of the same name by Anna Todd. It is the sequel to After We Fell and the fourth installment in the After film series. The film stars Josephine Langford and Hero Fiennes Tiffin reprising their roles as Tessa Young and Hardin Scott, respectively.",
+          "After Ever Happy is a 2022 American romantic drama film directed by Castille Landon from a screenplay by Sharon Soboil.",
         adult: true,
       },
       {
@@ -939,7 +939,7 @@ export const movies = [
           "https://th.bing.com/th?id=OSK.mmcolLTzryCdnS4LBLL1vMEzCjpI8gL1QuXWiC9B8mJajVQw&w=76&h=100&c=8&o=6&dpr=1.3&pid=SANGAM",
         ],
         about:
-          "After Ever Happy is a 2022 American romantic drama film directed by Castille Landon from a screenplay by Sharon Soboil, based on the 2015 novel of the same name by Anna Todd. It is the sequel to After We Fell and the fourth installment in the After film series. The film stars Josephine Langford and Hero Fiennes Tiffin reprising their roles as Tessa Young and Hardin Scott, respectively.",
+          "After Ever Happy is a 2022 American romantic drama film directed by Castille Landon from a screenplay by Sharon Soboil.",
         adult: true,
       },
       {
