@@ -66,6 +66,28 @@ export const movies = [
         adult: false,
       },
       {
+        id: 999,
+        name: "After Ever Happy",
+        genres: ["Romantic"],
+        trailer: "https://youtu.be/hLQ-5exgctI?si=5mpbpxeibJpu1n6x",
+        rating: 8,
+        evaluation: "Great",
+        poster_img:
+          "https://th.bing.com/th?id=OSK.411f4fdcf5d18adc6bdccec1a1b0c502&w=116&h=168&c=7&o=6&dpr=1.3&pid=SANGAM",
+        cover_img:
+          "https://th.bing.com/th?id=OSK.c07eca4e08c88602c2e756331f89da21&w=407&h=230&c=3&rs=1&o=6&dpr=1.3&pid=SANGAM",
+        time: "1h 30m",
+        date: "2022",
+        champions: ["Josephine Langford", "Hero Fiennes Tiffin"],
+        champion_images: [
+          "https://th.bing.com/th?id=OSK.70toZpINGe9kAdh1MKMZmFHvzShZqdd4MaA5BES_csY&w=76&h=100&c=8&o=6&dpr=1.3&pid=SANGAM",
+          "https://th.bing.com/th?id=OSK.mmcolLTzryCdnS4LBLL1vMEzCjpI8gL1QuXWiC9B8mJajVQw&w=76&h=100&c=8&o=6&dpr=1.3&pid=SANGAM",
+        ],
+        about:
+          "After Ever Happy is a 2022 American romantic drama film directed by Castille Landon from a screenplay by Sharon Soboil, based on the 2015 novel of the same name by Anna Todd. It is the sequel to After We Fell and the fourth installment in the After film series. The film stars Josephine Langford and Hero Fiennes Tiffin reprising their roles as Tessa Young and Hardin Scott, respectively.",
+        adult: true,
+      },
+      {
         id: 6,
         name: "A Quiet Place Part II",
         genres: ["Horror", "Drama", "Thriller"],
@@ -897,6 +919,28 @@ export const movies = [
         about:
           "Yesterday is a romantic comedy that explores what happens when a struggling musician wakes up in a world where no one remembers The Beatles except him.",
         adult: false,
+      },
+      {
+        id: 999,
+        name: "After Ever Happy",
+        genres: ["Romantic"],
+        trailer: "https://youtu.be/hLQ-5exgctI?si=5mpbpxeibJpu1n6x",
+        rating: 8,
+        evaluation: "Great",
+        poster_img:
+          "https://th.bing.com/th?id=OSK.411f4fdcf5d18adc6bdccec1a1b0c502&w=116&h=168&c=7&o=6&dpr=1.3&pid=SANGAM",
+        cover_img:
+          "https://th.bing.com/th?id=OSK.c07eca4e08c88602c2e756331f89da21&w=407&h=230&c=3&rs=1&o=6&dpr=1.3&pid=SANGAM",
+        time: "1h 30m",
+        date: "2022",
+        champions: ["Josephine Langford", "Hero Fiennes Tiffin"],
+        champion_images: [
+          "https://th.bing.com/th?id=OSK.70toZpINGe9kAdh1MKMZmFHvzShZqdd4MaA5BES_csY&w=76&h=100&c=8&o=6&dpr=1.3&pid=SANGAM",
+          "https://th.bing.com/th?id=OSK.mmcolLTzryCdnS4LBLL1vMEzCjpI8gL1QuXWiC9B8mJajVQw&w=76&h=100&c=8&o=6&dpr=1.3&pid=SANGAM",
+        ],
+        about:
+          "After Ever Happy is a 2022 American romantic drama film directed by Castille Landon from a screenplay by Sharon Soboil, based on the 2015 novel of the same name by Anna Todd. It is the sequel to After We Fell and the fourth installment in the After film series. The film stars Josephine Langford and Hero Fiennes Tiffin reprising their roles as Tessa Young and Hardin Scott, respectively.",
+        adult: true,
       },
       {
         id: 3,
