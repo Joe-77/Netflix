@@ -21,7 +21,7 @@ const Login = () => {
     <div className="w-full h-screen bg-black sm:bg-transparent relative">
       <img className="w-0 h-0 sm:w-full sm:h-full" src={cover} alt="" />
       <div className="overlay w-full h-full absolute top-0 left-0 bg-black opacity-50"></div>
-      <div className="absolute bg-black opacity-70 top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] w-full sm:w-1/2 lg:w-1/4 text-white px-10 py-7">
+      <div className="absolute bg-black opacity-70 top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] w-full sm:w-1/2 lg:w-[380px] 2xl:w-[420px] text-white px-10 py-7">
         <h2 className="text-3xl tracking-wider font-thin italic">Sign In</h2>
         <form onSubmit={handleSubmit(handleFormSubmit)}>
           <div className="my-5">
